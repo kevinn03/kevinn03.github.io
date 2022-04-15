@@ -620,7 +620,7 @@ p {
 
 img.skill-icon {
   height: 100px;
-  width: auto;
+  width: 100px;
 }
 
 .services-slider .swiper-pagination {
